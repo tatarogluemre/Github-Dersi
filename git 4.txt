@@ -1,2 +1,3 @@
 git commit -am"mesaj" 
 git diff
+git restore .		--> bir önceki versiyona döner değişiklikleri geri alır.
