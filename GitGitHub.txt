@@ -1,1 +1,12 @@
 Git-GitHub öğreniyoruz
+inşallah öğreniriz
+
+git init  	      	--> yeni projeyi locale eklemek için kullanılır.
+git add .             	--> projenin working space den staging area ya  eklmek için kullanılır.
+git commit -m "mesaj" 	--> projeyi çift tırnak içindeki mesaj ile versiyonlar. commit store a ekler.
+git status 	      	--> proje nin hangi aşamada olduğunu gösterir. working space ve staging area nın durumunu gösterir
+git log			--> oluşturulan versiyonları gösterir.
+git log --oneline	--> oluşturulan versiyonları tek satırda gösterir.
+git diff		--> git add . den önce projede ki yapılan değişiklikleri gösterir.
+git show 5ad746a 	--> 5ad746a hashcode lu versiyonun değişiklilkerini gösterir.
+
