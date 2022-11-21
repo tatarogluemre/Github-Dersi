@@ -9,4 +9,5 @@ git log			--> oluşturulan versiyonları gösterir.
 git log --oneline	--> oluşturulan versiyonları tek satırda gösterir.
 git diff		--> git add . den önce projede ki yapılan değişiklikleri gösterir.
 git show 5ad746a 	--> 5ad746a hashcode lu versiyonun değişiklilkerini gösterir.
+git commit -am"mesaj"	-->git add ve git commit komutlarının birleşimi ekleme ve mesajla versiyonlama aynı anda yapar.
 
